@@ -7,5 +7,4 @@ public class Main {
         int index = service.calculate(m,h);
         System.out.println("Индекс массы тела - " + index);
     }
-
 }
